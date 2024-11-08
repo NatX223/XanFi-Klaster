@@ -1,0 +1,4 @@
+[submodule "XanFi-Client"]
+	path = XanFi-Client
+	url = https://github.com/NatX223/XanFi-Client
+	branch = Klaster
