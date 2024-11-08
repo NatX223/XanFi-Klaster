@@ -2,3 +2,6 @@
 	path = XanFi-Client
 	url = https://github.com/NatX223/XanFi-Client
 	branch = Klaster
+[submodule "XanFi-Contracts"]
+	path = XanFi-Contracts
+	url = https://github.com/NatX223/XanFi-Contracts
