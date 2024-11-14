@@ -214,7 +214,20 @@ Solution: The proposed project solves this problem by introducing a decentralize
     ```bash
     cd XanFi-Client
     ```
-
+    add these in the .env.local file
+    ```
+    NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyD-4Qti0TdmDNXpsr9wJqE-wPFsK9oJPCI
+    NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=openfund-74352.firebaseapp.com
+    NEXT_PUBLIC_FIREBASE_PROJECT_ID=openfund-74352
+    NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=openfund-74352.appspot.com
+    NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=996165770185
+    NEXT_PUBLIC_FIREBASE_APP_ID=1:996165770185:web:d5f63b92e0a42626a22618
+    NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID=G-709G6W2JWV
+    NEXT_PUBLIC_PROJECT_ID=c0ce6c51-3d39-4288-8e36-407ba0b6b945
+    NEXT_PUBLIC_CLIENT_KEY=cP5mNY5pVUCLQcYS587xPO1nD1eRBjHCANU7yqLx
+    NEXT_PUBLIC_APP_ID=677d64b7-9c9b-4558-8571-77ae096f40b3
+    NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID=
+    ```
     install neccesary packages
     ```bash
     npm install --force
